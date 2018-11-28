@@ -1,3 +1,3 @@
 # Unsupervised-Object-Tracker-based-on-Colorization
 
- /home/jihoon/Pictures/intro.png
+![Alt text](doc/intro.png?raw=true "Title")
